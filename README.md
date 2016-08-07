@@ -1,2 +1,2 @@
-# The-Carmelita
+# The Carmelita
 CS345 - Game Project
