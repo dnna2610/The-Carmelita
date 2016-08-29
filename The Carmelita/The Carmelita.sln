@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F748C0BA-9B5F-BDC8-671B-9898B7D1BDAC}") = "The Carmelita", "Assembly-CSharp-firstpass.csproj", "{27521D83-940F-4AED-F4F0-0F497C67C1D7}"
+EndProject
+Project("{F748C0BA-9B5F-BDC8-671B-9898B7D1BDAC}") = "The Carmelita", "Assembly-CSharp.csproj", "{9F6C4901-5FB9-8FE7-AEE2-237ABD1188DA}"
+EndProject
+Project("{F748C0BA-9B5F-BDC8-671B-9898B7D1BDAC}") = "The Carmelita", "Assembly-CSharp-Editor.csproj", "{058CFF9E-91F1-0BD5-2CCA-C83B9090E3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27521D83-940F-4AED-F4F0-0F497C67C1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27521D83-940F-4AED-F4F0-0F497C67C1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27521D83-940F-4AED-F4F0-0F497C67C1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27521D83-940F-4AED-F4F0-0F497C67C1D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6C4901-5FB9-8FE7-AEE2-237ABD1188DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6C4901-5FB9-8FE7-AEE2-237ABD1188DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6C4901-5FB9-8FE7-AEE2-237ABD1188DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6C4901-5FB9-8FE7-AEE2-237ABD1188DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{058CFF9E-91F1-0BD5-2CCA-C83B9090E3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058CFF9E-91F1-0BD5-2CCA-C83B9090E3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058CFF9E-91F1-0BD5-2CCA-C83B9090E3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058CFF9E-91F1-0BD5-2CCA-C83B9090E3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
